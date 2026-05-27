@@ -30,7 +30,7 @@ const routes = {
 
 const navItems = [
   { href: "#/", label: "Home" },
-  { href: "#/about", label: "Pages" },
+  { href: "#/about", label: "About Us" },
   { href: "#/doctors", label: "Doctors" },
   { href: "#/departments", label: "Departments" },
   { href: "#/blog", label: "Blog" },
